@@ -28,3 +28,7 @@ N/A
 
 ## Licence
 Please refer to the licence in the repo.
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/117095370/200072997-1cf306c3-b6d8-474d-8bb3-eb36a0e9f905.png)
+![image](https://user-images.githubusercontent.com/117095370/200073038-08b2fcc8-7e9a-429d-9129-e0abed2d04ec.png)
